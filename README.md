@@ -14,7 +14,19 @@ Um aplicativo desenvolvido em Python + PyQt6 para converter Texto ⇄ Binário d
 
 🖥️ Interface
 
+![alt text](image.png)
+
+
+
 A interface é construída com PyQt6, com design limpo, profissional e responsivo.
+
+## 📦 Instalação
+
+### 1️⃣ Clone o repositório
+
+```bash
+git clone https://github.com/DouglasReis07/Pyqt6-binary-converter.git
+cd Pyqt6-binary-converter
 
 🚀 Como executar
 1. Instale o PyQt6:
