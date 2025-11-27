@@ -1,0 +1,62 @@
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
+*.egg
+*.spec
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Configurações locais
+*.env
+*.ini
+*.cfg
+
+# Arquivos criados pelo Qt Designer
+*.pyproject.user
+*.user
+*.qrc.depends
+*.pro.user*
+*.pro.user.*
+
+# ===== EDITORES =====
+
+# VSCode
+.vscode/
+
+# PyCharm / JetBrains
+.idea/
+*.iml
+
+# ===== SISTEMA OPERACIONAL =====
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
